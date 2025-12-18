@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Fraud Detection ML Pipeline",
+        "description": "End-to-end ML pipeline preventing $6,000 fraud losses per 1,000 transactions. XGBoost + Random Forest + SMOTE (87% precision, 75K+ transactions).",
+        "technologies": ["Python", "Scikit-learn", "XGBoost", "Pandas"],
+        "link": "https://github.com/Akb6/fraud-detection-ml-pipeline"
+    },
+    {
+        "title": "Health AI Tracker",
+        "description": "AI-powered web app for instant diabetes risk predictions. Full-stack Flask application serving thousands of users.",
+        "technologies": ["Python", "Flask", "Scikit-learn", "HTML/CSS/JS"],
+        "link": "https://github.com/Akb6/HealthAiTracker"
+    },
+    {
+        "title": "Crime Rate Prediction",
+        "description": "ML models predicting crime rates by state/pincode/year/population. Random Forest vs Linear Regression (cross-validated MSE/R² metrics).",
+        "technologies": ["Python", "Scikit-learn", "Pandas"],
+        "link": "https://github.com/Akb6/Crime_Rate-Prediction"
+    }
+]
